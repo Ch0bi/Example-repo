@@ -1,2 +1,3 @@
 # Example-repo
-My first
+My first repository!
+
